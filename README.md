@@ -1,2 +1,0 @@
-# Teknologi-Informasi
-project
